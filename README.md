@@ -16,13 +16,13 @@ analyses presented in the thesis.
 ## Repository structure
 
 - `code/` – analysis and modelling scripts
-- `example_data/` – example acoustic clips
-- `figures/` – selected outputs and figures
+- `data` – a list of original data
+- `example_clips/` – example acoustic clips
 
 ## Data availability
 
-Recording data is not included in this repository as they belong to 
-UKCEH. 
+Original recording data is not included in this repository as they belong to 
+UKCEH (UK Centre of Ecology and Hydrology). 
 
 ## Software
 
